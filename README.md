@@ -1,6 +1,6 @@
-# Visual Studio Code Demo with Angular, TypeScript, Node, and HotTowel
+# Sass, Angular, TypeScript, Node, and HotTowel
 
-As seen at [//Build 2015](http://channel9.msdn.com/Events/Build/2015/3-680) presented by Erich Gamma, Chris Dias and John Papa.
+Modified to use SASS instead of LESS.
 
 ## Prerequisites
 
