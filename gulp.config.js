@@ -19,7 +19,7 @@ module.exports = function() {
         /**
          * File paths
          */
-        
+
         // All typescript settings
         ts: {
             // all typescript that we want to vet
@@ -60,7 +60,7 @@ module.exports = function() {
             '**/*.module.js',
             '**/*.js'
         ],
-        less: client + 'styles/styles.less',
+        stylesheets: client + '/styles/*.scss',
         report: report,
         root: root,
         server: server,
